@@ -55,6 +55,8 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+teaser: "/assets/images/banner.jpg"
+
 author:
   name   : "Ben Comer"
   avatar : "/assets/images/bio-photo.jpg"
